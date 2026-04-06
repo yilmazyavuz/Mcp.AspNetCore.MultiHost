@@ -7,10 +7,10 @@
     <LangVersion>latest</LangVersion>
 
     <!-- Package metadata -->
-    <PackageId>Mcp.AspNetCore.MultiHost</PackageId>
-    <Version>0.2.0-preview</Version>
-    <Authors>Vladimir Gondarev</Authors>
-    <Copyright>Copyright (c) 2026 Vladimir Gondarev</Copyright>
+    <PackageId>MyRegistry.Mcp.AspNetCore.MultiHost</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Yilmaz Yavuz</Authors>
+    <Copyright>Copyright (c) 2026 MyRegistry</Copyright>
     <Description>Host multiple MCP (Model Context Protocol) servers with distinct tool sets and configurations in a single ASP.NET Core application.</Description>
     <PackageTags>mcp;model-context-protocol;aspnetcore;multi-host;ai;tools</PackageTags>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
